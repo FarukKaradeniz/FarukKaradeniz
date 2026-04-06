@@ -1,11 +1,13 @@
-# Merhaba, ben Faruk 👋
+# Faruk Karadeniz
 
-Yazılım geliştirmeye ilgi duyan bir geliştiriciyim.
+Merhaba 👋  
+Yazılım geliştirme, ürün geliştirme ve sürekli öğrenme odağında çalışan bir geliştiriciyim.
 
 ## Hakkımda
-- 🌱 Şu anda kendimi sürekli geliştiriyorum.
-- 💻 Yeni teknolojiler öğrenmeyi seviyorum.
-- 🤝 Açık kaynak projelere katkı vermeye açığım.
+- Web teknolojileriyle ürünler geliştiriyorum.
+- Kod kalitesi, sade mimari ve sürdürülebilir çözümler önceliğim.
+- Yeni teknolojileri denemeyi ve açık kaynak ekosistemini takip etmeyi seviyorum.
 
-## İletişim
-- 📫 Bana GitHub üzerinden ulaşabilirsiniz.
+## Bağlantılar
+- 🌐 Website: [farukkaradeniz.com](https://farukkaradeniz.com)
+- 💼 GitHub: [@FarukKaradeniz](https://github.com/FarukKaradeniz)
